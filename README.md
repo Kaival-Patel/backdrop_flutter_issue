@@ -1,6 +1,6 @@
 # Backdrop filter not clipping issue on flutter while using native view
 # Output
-![alt text](issue.gif)
+![alt text](issue/issue_file.gif)
 # Doctor Logs
 [✓] Flutter (Channel stable, 3.7.12, on macOS 13.3 22E252 darwin-arm64, locale en-IN) • Flutter version 3.7.12 on channel stable at /Users/kaival/Developer/flutter • Upstream repository https://github.com/flutter/flutter.git • Framework revision 4d9e56e694 (4 days ago), 2023-04-17 21:47:46 -0400 • Engine revision 1a65d409c7 • Dart version 2.19.6 • DevTools version 2.20.1
 
